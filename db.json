@@ -2,7 +2,15 @@
   "users": [
     {
       "id": 1,
-      "name": "Joaquim"
+      "name": "Joaquim",
+      "avatar": "",
+      "is_online":"",
+      "status":"",
+      "social_network":"",
+      "images": [
+        
+      ],
+      "description":""
     }
   ]
 }
