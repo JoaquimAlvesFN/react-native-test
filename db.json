@@ -8,8 +8,8 @@
       "status":"",
       "social_network": [
         {"id":1, "name":"Linkedin"},
-        {"id":2, "name":"Twitter"}
-        {"id":3, "name":"Facebook"}
+        {"id":2, "name":"Twitter"},
+        {"id":3, "name":"Facebook"},
       ],
       "images": [
         
@@ -24,8 +24,8 @@
       "status":"Be Happy",
       "social_network": [
         {"id":1, "name":"Linkedin"},
-        {"id":2, "name":"Twitter"}
-        {"id":3, "name":"Facebook"}
+        {"id":2, "name":"Twitter"},
+        {"id":3, "name":"Facebook"},
       ],
       "images": [
         
