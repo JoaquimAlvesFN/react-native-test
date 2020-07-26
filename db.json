@@ -6,7 +6,11 @@
       "avatar": "",
       "is_online":"",
       "status":"",
-      "social_network":"",
+      "social_network": [
+        {"id":1, "name":"Linkedin"},
+        {"id":2, "name":"Twitter"}
+        {"id":3, "name":"Facebook"}
+      ],
       "images": [
         
       ],
@@ -18,11 +22,15 @@
       "avatar": "https://avatars2.githubusercontent.com/u/4248081?s=460&u=98a643ad7f90c7950d9311e4b5a762fe77af8ada&v=4",
       "is_online": 1595268439,
       "status":"Be Happy",
-      "social_network":"",
+      "social_network": [
+        {"id":1, "name":"Linkedin"},
+        {"id":2, "name":"Twitter"}
+        {"id":3, "name":"Facebook"}
+      ],
       "images": [
         
       ],
-      "description":""
+      "description":"Entusiasta de Desenvolvimento"
     },
     {
       "id": 3,
@@ -34,7 +42,7 @@
       "images": [
         
       ],
-      "description":""
+      "description":"CTO na RocketSeat"
     },
     {
       "id": 4,
