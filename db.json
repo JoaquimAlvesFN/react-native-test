@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Joaquim Alves",
-      "avatar": "https://avatars3.githubusercontent.com/u/20126829?s=460&u=8452139991b52c40e827332b1f5ea7bc83016a74&v=4",
+      "name": "Fulano de Tal",
+      "avatar": "",
       "is_online":"",
       "status":"",
       "social_network":"",
@@ -35,6 +35,14 @@
         
       ],
       "description":""
+    }
+  ],
+  "profile": [
+    {
+      "name":"Joaquim Alves",
+      "avatar":"https://avatars3.githubusercontent.com/u/20126829?s=460&u=8452139991b52c40e827332b1f5ea7bc83016a74&v=4",
+      "email":"joaquim@teste.com",
+      "descricao":"React Native Developer"
     }
   ]
 }
