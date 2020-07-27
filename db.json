@@ -5,7 +5,7 @@
       "name": "Fulano de Tal",
       "avatar": "",
       "email":"fulano@teste.com",
-      "is_online":"",
+      "is_online":35,
       "status":"",
       "social_network": "",
       "images": [
@@ -18,7 +18,7 @@
       "name": "Filipe Deschamps",
       "avatar": "https://avatars2.githubusercontent.com/u/4248081?s=460&u=98a643ad7f90c7950d9311e4b5a762fe77af8ada&v=4",
       "email":"filipe@teste.com",
-      "is_online": 1595268439,
+      "is_online": 40,
       "status":"Be Happy",
       "social_network": "",
       "images": [
@@ -31,7 +31,7 @@
       "name": "Diego Fernandes",
       "avatar": "https://avatars2.githubusercontent.com/u/2254731?s=460&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4",
       "email":"diego@teste.com",
-      "is_online": 1595250439,
+      "is_online": 20,
       "status":"Work",
       "social_network":"",
       "images": [
@@ -44,7 +44,7 @@
       "name": "Cicrano da Silva",
       "avatar": "",
       "email":"cicrano@teste.com",
-      "is_online": 1595250439,
+      "is_online": 10,
       "status":"Work",
       "social_network":"",
       "images": [
@@ -57,7 +57,7 @@
       "name": "Martins de Souza",
       "avatar": "",
       "email":"martins@teste.com",
-      "is_online": 1595250439,
+      "is_online": 5,
       "status":"Work",
       "social_network":"",
       "images": [
