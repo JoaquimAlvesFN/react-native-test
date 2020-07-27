@@ -23,7 +23,7 @@
       "social_network": "",
       "images": [
         {"id": 1, "name":"uma imagem..."},
-        {"id": 2, "name":"outra imagem..."},
+        {"id": 2, "name":"outra imagem..."}
       ],
       "description":"Entusiasta de Desenvolvimento"
     },
