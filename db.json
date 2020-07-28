@@ -36,7 +36,7 @@
       "status":"Work",
       "social_network":"",
       "images": [
-        
+        {"id": 1, "url":"https://miro.medium.com/max/2880/1*1JB6n8WhVZFOO3y6pjeI7Q.png"}
       ],
       "description":"CTO na RocketSeat"
     },
