@@ -28,3 +28,5 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
 
 * Anexar as capturas de tela do aplicativo desenvolvido.
 * Informar qual abordagem usou para desenvolver o aplicativo.
+
+![alt text](https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/Screenshot_20200728-100722_weDevSocial.jpg?raw=true)
