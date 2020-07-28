@@ -2,16 +2,16 @@
   "users": [
     {
       "id": 1,
-      "name": "Fulano de Tal",
-      "avatar": "",
-      "email":"fulano@teste.com",
-      "is_online":35,
+      "name": "Bill Gates",
+      "avatar": "https://citz.com.br/img/bill.jpg",
+      "email":"bill@teste.com",
+      "is_online":37,
       "status":"",
       "social_network": "",
       "images": [
-        
+        {"id": 1, "url":"https://i.pinimg.com/originals/d2/3e/45/d23e45546bad1c989736d5ab9d138954.jpg"}
       ],
-      "description":""
+      "description":"Microsoft Corporation"
     },
     {
       "id": 2,
