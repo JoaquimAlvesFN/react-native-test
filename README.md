@@ -48,7 +48,7 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
 
 
  ## Abordagem Utilizada
- * Utilizei funciontional components para o desenvolvimento de todo codigo que facilitou bastando no uso do redux com hooks para o gerenciamento
+ * Utilizei functional components para o desenvolvimento de todo codigo que facilitou bastando no uso do redux com hooks para o gerenciamento
  * de estado da aplicação. Basicamente é isso!
  
  ## Tools Utilizadas
