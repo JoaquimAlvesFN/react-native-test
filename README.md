@@ -29,6 +29,11 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
 * Anexar as capturas de tela do aplicativo desenvolvido.
 * Informar qual abordagem usou para desenvolver o aplicativo.
 
+###Repositorio
+* https://github.com/JoaquimAlvesFN/result_test_RN
+
+###Imagens
+
 <p float="left">
 <img src="https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/weDev_Logo.jpg?raw=true">
 <img src="https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/Screenshot_20200728-100722_weDevSocial.jpg?raw=true" width="150">
@@ -42,6 +47,8 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
 
 
 
- 
+ ###Abordagem Utilizada
+ * Utilizei funciontional components para o desenvolvimento de todo codigo que facilitou bastando no uso do redux com hooks para o gerenciamento
+ * de estado da aplicação. Basicamente é isso!
  
 
