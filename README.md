@@ -30,10 +30,18 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
 * Informar qual abordagem usou para desenvolver o aplicativo.
 
 <p float="left">
-<img src="https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/weDev_Logo.jpg?raw=true" width="150">
+<img src="https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/weDev_Logo.jpg?raw=true">
 <img src="https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/Screenshot_20200728-100722_weDevSocial.jpg?raw=true" width="150">
 <img src="https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/Screenshot_20200728-100716_weDevSocial.jpg?raw=true" width="150">
 <img src="https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/Screenshot_20200728-100709_weDevSocial.jpg?raw=true" width="150">
+<img src="https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/Screenshot_20200728-100705_weDevSocial.jpg?raw=true" width="150">
+<img src="https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/Screenshot_20200728-100701_weDevSocial.jpg?raw=true" width="150">
+<img src="https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/Screenshot_20200728-100651_weDevSocial.jpg?raw=true" width="150">
+<img src="https://github.com/JoaquimAlvesFN/result_test_RN/blob/master/images_screen/Screenshot_20200728-100644_weDevSocial.jpg?raw=true" width="150">
 </p>
 
+
+
+ 
+ 
 
