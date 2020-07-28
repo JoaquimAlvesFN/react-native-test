@@ -20,7 +20,7 @@
       "email":"filipe@teste.com",
       "is_online": 40,
       "status":"Be Happy",
-      "social_network": "",
+      "social_network": "https://www.linkedin.com/in/filipedeschamps/",
       "images": [
         {"id": 1, "url":"https://hackernoon.com/hn-images/0*71Wzz_kdOrDZN4s2"},
         {"id": 2, "url":"https://www.prestigeacademy.co.za/wp-content/uploads/2019/09/what-is-a-web-developer.jpg"}
@@ -34,7 +34,7 @@
       "email":"diego@teste.com",
       "is_online": 20,
       "status":"Work",
-      "social_network":"",
+      "social_network":"https://www.linkedin.com/in/diego-schell-fernandes/",
       "images": [
         {"id": 1, "url":"https://miro.medium.com/max/2880/1*1JB6n8WhVZFOO3y6pjeI7Q.png"}
       ],
