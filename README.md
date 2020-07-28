@@ -51,4 +51,11 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
  * Utilizei funciontional components para o desenvolvimento de todo codigo que facilitou bastando no uso do redux com hooks para o gerenciamento
  * de estado da aplicação. Basicamente é isso!
  
+ ## Tools Utilizadas
+ * Axios
+ * React Navigation V5
+ * Styled-components
+ * Redux e React-Redux
+ * Vector Icons
+ 
 
