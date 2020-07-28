@@ -22,8 +22,8 @@
       "status":"Be Happy",
       "social_network": "",
       "images": [
-        {"id": 1, "name":"uma imagem..."},
-        {"id": 2, "name":"outra imagem..."}
+        {"id": 1, "url":"https://hackernoon.com/hn-images/0*71Wzz_kdOrDZN4s2"},
+        {"id": 2, "url":"https://www.prestigeacademy.co.za/wp-content/uploads/2019/09/what-is-a-web-developer.jpg"}
       ],
       "description":"Entusiasta de Desenvolvimento"
     },
