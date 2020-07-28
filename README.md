@@ -50,6 +50,8 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
  ## Abordagem Utilizada
  * Utilizei functional components para o desenvolvimento de todo codigo que facilitou bastando no uso do redux com hooks para o gerenciamento
  de estado da aplicação. Basicamente é isso!
+ * Os dados disponiveis no app são do (https://my-json-server.typicode.com/) no propiro site do JSON Placeholder fala como fazer um server.
+ Achei interessante criar um e montar os dados mais próximos do que o teste solicitava.
  
  ## Tools Utilizadas
  * Axios
